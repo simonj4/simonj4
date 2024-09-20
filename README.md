@@ -12,7 +12,7 @@ I'm a Computer Engineering student at Queen's University. I like solving and opt
   - C++
 
 - 📫 **How to reach me**:  
-  Feel free to connect with me on [LinkedIn](https://linkedin.com/in/simonjohn-) or send me an email at [simonnicholasjohn@gmail.com](simonnicholasjohn@gmail.com).
+  Feel free to connect with me on [LinkedIn](https://linkedin.com/in/simonjohn-) or send me an email at [simonnicholasjohn@gmail.com](mailto:simonnicholasjohn@gmail.com).
 
 ---
 

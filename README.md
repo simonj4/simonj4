@@ -7,9 +7,9 @@ I'm a Computer Engineering student at Queen's University. I like solving and opt
   - Currently in my third year of computer engineering
 
 - 🌱 **What I'm Learning**:  
-  - Image Recognition with Neural Nets
-  - Operating Systems
-  - C++
+  - GPU Architecture
+  - Compilers
+  - Computer Vision applied in Autonomous Driving
 
 - 📫 **How to reach me**:  
   Feel free to connect with me on [LinkedIn](https://linkedin.com/in/simonjohn-) or send me an email at [simonnicholasjohn@gmail.com](mailto:simonnicholasjohn@gmail.com).

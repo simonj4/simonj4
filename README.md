@@ -17,7 +17,6 @@ I'm a Computer Engineering student at Queen's University. I like solving and opt
 ---
 
 ### 🛠️ Skills & Tools:
-- **Languages**: C, Python, Java, Assembly
+- **Languages**: C, C++, Python, Java, Verilog, Assembly, CUDA
 - **Technologies**: Git, Pytorch, Scikit-Learn
-- **Tools**: Quartus II, MATLAB
 
